@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UILab</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="width_hint">Enter width</string>
+    <string name="height_hint">Enter height</string>
+    <string name="button_text">CALCULATE</string>
+    <string name="toast_text">Width/Height cannot be empty</string>
+</resources>
